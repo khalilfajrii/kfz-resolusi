@@ -1,0 +1,4 @@
+KFZ RESOLUSI
+- konsisten belajar fornt end development setiap minggunua
+- menguasai javascript
+- node.js
